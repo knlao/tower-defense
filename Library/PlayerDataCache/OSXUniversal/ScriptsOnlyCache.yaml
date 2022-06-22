@@ -1157,4 +1157,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/MainScene.unity
-  playerPath: C:/Users/kimil/Desktop/Tower Defense Builds/macos.app
+  playerPath: C:/Users/kimil/Desktop/Tower Defense Builds/macOS.app

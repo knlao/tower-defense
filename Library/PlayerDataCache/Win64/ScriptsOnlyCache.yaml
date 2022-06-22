@@ -1157,4 +1157,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/MainScene.unity
-  playerPath: C:/Users/kimil/Desktop/Tower Defense Builds/windows/Tower Defense.exe
+  playerPath: C:/Users/kimil/Desktop/Tower Defense Builds/Windows/Tower Defense.exe
